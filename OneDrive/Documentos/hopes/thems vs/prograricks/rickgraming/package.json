@@ -1,0 +1,32 @@
+{
+    "name": "rickgraming",
+    "displayName": "ricks",
+    "description": "rick & morty theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "rick & morty theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rick & morty theme-color-theme.json"
+            }
+        ]
+    },
+    
+    "icon": "icons/rym.png",
+    "author": {
+        "name": "aflyker",
+        "email": "ffflyker@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/aflyker/rickymorty-themevs.git",
+        "type": "git"
+    },
+    "publisher": "phrism-f"
+}
